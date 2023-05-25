@@ -140,8 +140,12 @@ urlpatterns = [
 
 ```
 ## OUTPUT:
+![Screenshot 2023-05-25 214650](https://github.com/DhanushPalani/serversideprocessing/assets/121594640/f07d0164-58a5-4398-bfcd-3dfe37ba8039)
+
 
 ## Home Page:
+![server output](https://github.com/DhanushPalani/serversideprocessing/assets/121594640/b33a4ef3-8b67-410e-b6b2-38edbd64211e)
+
 
 ## Result:
 The program for implementing Serverside Processing is executed successfully.
